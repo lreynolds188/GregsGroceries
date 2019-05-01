@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.floatRight {
+    float:right;
+}
+
+.floatLeft {
+    float:left;
+}
+
+.align{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
